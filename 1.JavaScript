@@ -5,7 +5,7 @@ let item_1
 let item_1 = 5
 
 // 3. Вывести в консоль item_1.
-consol.log(item_1)
+console.log(item_1)
 
 
 // 4. Создать переменную “item_2”
@@ -15,7 +15,7 @@ let item_2
 let item_2 = 3
 
 // 6. Вывести в консоль item_2.
-consol.log(item_2);
+console.log(item_2);
 
 // 7. Создать переменную “item_3”
 let item_3

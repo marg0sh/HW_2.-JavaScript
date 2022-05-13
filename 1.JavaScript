@@ -100,8 +100,7 @@ else if (age_1 > age_3) {console.log('Keep calm and look Culture channel')}
 // 33. Иначе выводите “Technical work”.
  else {console.log('Technical work...')}
 
------
- 
+
 // HW_1* 
 // 1*: Преобразовать написанный код в 26-33 пунктах в функцию, принимающую на вход возраст.
 // Пример: const checkAge = function(age) {

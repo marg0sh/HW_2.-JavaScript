@@ -1,4 +1,4 @@
-## JavaScript  
+## JavaScript    
   
 #### Задачки 1 *+ сопутствующие файлы*:  
 1.JavaScript  
